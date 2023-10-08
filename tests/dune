@@ -1,0 +1,3 @@
+(tests
+ (libraries toylang ounit2)
+ (names test_tokenizer))
